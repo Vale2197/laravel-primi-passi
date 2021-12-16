@@ -10,5 +10,8 @@
     <h1>
         HELLO WORLD
     </h1>
+    <p>
+        mi chiamo {{ $name }} {{ $surname }}
+    </p>
 </body>
 </html>
